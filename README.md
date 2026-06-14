@@ -84,4 +84,4 @@ Face Anonymization - Haar Cascade Face Detection, OpenCV Image Processing
 # Demo
 Below is a snapshot of VisionINK AI's workflow and logic
 
-<img width="1512" height="982" alt="Screenshot 2026-06-14 at 2 05 44 AM" src="https://github.com/user-attachments/assets/96167773-b1b0-4031-bfb8-e3d1f34118c7" />
+<img width="1512" height="982" alt="Screenshot 2026-06-14 at 2 05 44 AM" src="https://github.com/user-attachments/assets/2f3b13b6-eddd-4915-9605-f78a04e6f6de" />
